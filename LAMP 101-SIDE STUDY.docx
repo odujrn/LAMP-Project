@@ -1,0 +1,48 @@
+SOFTWARE DEVELOPMENT LIFE CYCLE  (SDLC )
+
+This is a software development process that produces the highest software quality at the lowest cost possible. 
+
+SDLC provides a well structured flow of phases that helps an organization to quickly develop and deploy softwares with very minimal costs.
+
+The Software Development Life Cycle (SDLC) is a strategic approach designed to enhance the quality of software while reducing both the cost and time required to produce it. 
+
+This method achieves its seemingly contradictory goals by steering clear of common traps that often derail software projects. 
+
+It all begins with a thorough evaluation of existing systems to identify any shortcomings. From there, the SDLC outlines the new system's needs before progressing through the critical stages of analysis, planning, design, development, testing, and deployment. 
+
+By proactively addressing common errors—such as neglecting to seek feedback from end-users or clients—the SDLC minimizes unnecessary revisions and late-stage fixes.
+
+The Software Development Life Cycle (SDLC) unfolds through a series of well-defined stages, each playing a crucial role in turning a concept into a fully functional software application. 
+
+Here’s a more human-centric breakdown of these stages:
+
+Requirement Analysis: This stage is all about listening to the users, stakeholders, and analyzing the system requirements to paint a clear picture of the expected software functions and objectives.
+
+Planning: This involves setting out timelines, budgeting, and identifying resources. 
+
+Design:. It’s about deciding on the architecture and the finer details of the software’s interface, data storage, and system interactions. 
+
+Development: This is the stage to start coding and building the software
+
+Testing:  After building the software, it is important to test for errors and bugs before moving to the next stage.
+
+Deployment: Once the software passes all tests, then it can be deployed to production. This can be done all at once or in phases, depending on the strategy.
+
+Maintenance: This final stage involves polishing, upgrading, and fine-tuning the application to ensure it continues to serve its purpose well into the future.
+
+Each stage of the SDLC ensures that the software not only meets the initial requirements but also continues to evolve and improve over time. 
+
+This structured approach helps teams deliver high-quality software that truly meets user needs and stands the test of time.
+
+
+LAMP STACK
+
+LAMP is L(Linux) A(Apache) M(Mysql) P(PHP5) is a combined package intended for web-application development.
+
+Linux for the operating system used for deploying your server
+Apache is a light weight server
+Mysql for database system
+PHP , this is a server side language used to build websites 
+
+
+
